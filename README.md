@@ -20,7 +20,7 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<a href="https://discordapp.com/users/407579904222167064">
+<a href="https://discordapp.com/users/407579904222167064" target="_blank">
 <img src="https://img.shields.io/badge/%3CRobotix_00%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 <a/>
 

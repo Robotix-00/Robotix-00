@@ -28,6 +28,6 @@
 ---
 
 ## SRZ-Projekte
-![Metis](https://github-readme-stats.vercel.app/api/pin/?username=Metis-Hub&repo=Metis&theme=dark)
-![Intectainment](https://github-readme-stats.vercel.app/api/pin/?username=Metis-Hub&repo=Intectainment&theme=dark)
+[![Metis](https://github-readme-stats.vercel.app/api/pin/?username=Metis-Hub&repo=Metis&theme=dark)](https://github.com/Metis-Hub/Metis)
+[![Intectainment](https://github-readme-stats.vercel.app/api/pin/?username=Metis-Hub&repo=Intectainment&theme=dark)](https://github.com/Metis-Hub/Intectainment)
 

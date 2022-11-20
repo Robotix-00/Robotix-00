@@ -19,8 +19,7 @@
 ---
 
 ## GitHub Stats
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=robotix-00&count_private=true&include_all_commits=true&show_icons=true&theme=dark&border_radius=15" />
-<img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotix-00&layout=compact&langs_count=10&theme=dark&border_radius=15&card_width=450" />
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotix-00&layout=compact&langs_count=10&theme=dark&border_radius=15&card_width=450" />
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=robotix-00&theme=react-dark&hide_border=true&area=true" />
 

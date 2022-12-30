@@ -21,9 +21,6 @@
 ## GitHub Stats
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robotix-00&layout=compact&langs_count=10&theme=dark&border_radius=15&card_width=450" />
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=robotix-00&theme=react-dark&hide_border=true&area=true" />
-
-
 ---
 
 ## SRZ-Projekte

@@ -30,9 +30,9 @@ jobs:
 
           plugin_stars: yes
 
-          # plugin_topics: yes
-          # plugin_topics_limit: 12
-          # plugin_topics_mode: icons
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_mode: icons
 
           plugin_achievements: yes
           plugin_achievements_display: compact

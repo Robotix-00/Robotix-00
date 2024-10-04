@@ -16,9 +16,9 @@ jobs:
           base: header, activity, community, repositories
           config_animations: yes
           
-          repositories: all
-          plugin_contributors: yes
-          plugin_contributors_affiliations: owner, collaborator
+          repositories_skipped: |
+            @use.patterns
+            +MetisHub/*
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year

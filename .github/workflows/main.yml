@@ -13,13 +13,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Europe/Berlin
-          template: classic
           base: header, activity, community, repositories
           config_animations: yes
           
           repositories: all
-          repositories_forks: true
-          repositories_private: true
           plugin_contributors: yes
           plugin_contributors_affiliations: owner, collaborator
 
